@@ -1,5 +1,5 @@
 name: Integrated Design Innovation Group
-url: idig.github.io
+url: https://idig.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
