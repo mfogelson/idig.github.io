@@ -1,36 +1,23 @@
 
-prof-a:
-    display_name: "Prof A"
+JonCagan:
+    display_name: "Jonathan Cagan"
+    webpage: "https://jonathancagan.com/"
     role: faculty
+    image: /img/people/joncagan.jpeg
+    bio: Professor, Department Head
 
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+Guanglu:
+    display_name: "Guanglu Zhang"
+    webpage: "https://www.researchgate.net/profile/Guanglu-Zhang"
     role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+    image: /img/people/guanglu.jpeg
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+Tito:
+    display_name: "Tito Babatunde"
+    role: grad
+    image: /img/people/babatunde.jpg
+    bio: DNA nanotechnology and automated design
+
 
 storm:
     display_name: "Storm"
