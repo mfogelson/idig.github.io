@@ -2,6 +2,7 @@
 ---
 
 $gray: #999;
+$red: #C41230;
 $light-gray: #EEE;
 
 /* Space out content a bit */
@@ -24,12 +25,12 @@ body {
     font-size: 0.8em;
 
     a:link, a:visited {
-        color: $gray;
+        color: $red;
     }
 }
 
 .fa {
-    color: $gray;
+    color: $red;
 }
 a > .fa {
     // make sure that font-awesome icons are underlined in links
@@ -48,14 +49,18 @@ a > .fa {
     text-align: justify;
     padding-top: 1.5em;
     padding-bottom: 0.5em;
-    font-size: 125%
+    font-size: 125%;
+    // background-color: $gray;
+    // color: $red;
 }
 
 /* Group logo */
 #logo {
-    width: 154px;
-    height: 35px;
-    margin: 2px 0 8px 0;
+    width: 130px;
+}
+
+ul.nav {
+    margin-top: 75px;
 }
 
 /* Front page news. */
