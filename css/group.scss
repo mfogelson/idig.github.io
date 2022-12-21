@@ -49,9 +49,12 @@ a > .fa {
     text-align: justify;
     padding-top: 1.5em;
     padding-bottom: 0.5em;
-    font-size: 125%;
+    font-size: 175%;
+    background: $gray url("/img/cmu-tartan-wave-red-crop-02.png") center center;
+    background-size: cover;
+    overflow: hidden;
     // background-color: $gray;
-    // color: $red;
+    color: white;
 }
 
 /* Group logo */
