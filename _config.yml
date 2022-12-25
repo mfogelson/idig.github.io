@@ -1,6 +1,6 @@
 name: Integrated Design Innovation Group
 url: https://mfogelson.github.io/idig.github.io/
-
+base: https://mfogelson.github.io/idig.github.io/
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
 # colorize code snippets with the pygments module
@@ -42,12 +42,12 @@ collections:
 # Navigation bar links.
 navigation:
   - title: Home
-    link: /
+    link: /idig.github.io/
   - title: People
-    link: /people.html
+    link: /idig.github.io/people.html
   - title: Research
-    link: /research.html
+    link: /idig.github.io/research.html
   - title: Publications
-    link: /publications.html
+    link: /idig.github.io/publications.html
   - title: Code
-    link: /code.html
+    link: /idig.github.io/code.html
