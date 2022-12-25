@@ -4,7 +4,7 @@ url: https://idig.github.io
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
 # colorize code snippets with the pygments module
-highlighter: pygments
+highlighter: rouge
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
@@ -44,7 +44,7 @@ navigation:
   - title: Home
     link: /
   - title: People
-    link: /#people
+    link: /people.html
   - title: Research
     link: /research.html
   - title: Publications
