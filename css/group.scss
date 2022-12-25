@@ -51,13 +51,18 @@ a > .fa {
     padding-top: 1.5em;
     padding-bottom: 0.5em;
     font-size: 175%;
-    background: #941120;
-    // background: $gray url("/img/cmu-tartan-wave-red-crop-02.png") center center;
+    // background: #941120;
+    background: $gray url("../img/tartan-digital-600x600.png") center center;
+    // opacity: 0.5;
+    // background-image: url("../img/tartan-digital-600x600.png");
     background-size: cover;
+    background-blend-mode:soft-light;
     overflow: hidden;
     // background-color: $gray;
-    color: white;
+    // color: $;
+    color: black;
 }
+
 
 /* Group logo */
 #logo {
