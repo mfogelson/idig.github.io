@@ -52,6 +52,7 @@ Scotty:
     display_name: "Scotty McGee"
     role: grad
     bio: AI Managers for Design Teams
+    image: /img/people/mcgee.jpeg
 
 SeanR:
     display_name: "Sean Rismiller"
@@ -63,6 +64,7 @@ AJ:
     display_name: "AJ Vetturini"
     role: grad
     bio: Computational Design of DNA Nano-systems
+    image: /img/people/Vetturini.jpeg
 
 Lisha:
     display_name: "Lisha White"

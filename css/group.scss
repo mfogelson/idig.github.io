@@ -8,6 +8,7 @@ $light-gray: #EEE;
 /* Space out content a bit */
 body {
     padding-top: 20px;
+    background-color: white;
 }
 
 .header {
@@ -50,7 +51,8 @@ a > .fa {
     padding-top: 1.5em;
     padding-bottom: 0.5em;
     font-size: 175%;
-    background: $gray url("/img/cmu-tartan-wave-red-crop-02.png") center center;
+    background: #941120;
+    // background: $gray url("/img/cmu-tartan-wave-red-crop-02.png") center center;
     background-size: cover;
     overflow: hidden;
     // background-color: $gray;
