@@ -9,7 +9,7 @@ people:
   - Scotty
 
 layout: project
-image: /img/manager1.png
+image: img/manager1.png
 last-updated: 2022-12-19
 ---
 

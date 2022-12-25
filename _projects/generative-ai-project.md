@@ -8,7 +8,7 @@ people:
   - Mitch
 
 layout: project
-image: /img/learningfromhumans1.png
+image: img/learningfromhumans1.png
 last-updated: 2022-12-19
 ---
 

@@ -8,7 +8,7 @@ people:
   - Guanglu
 
 layout: project
-image: /img/ImpactOfAIOnTeams1.jpeg
+image: img/ImpactOfAIOnTeams1.jpeg
 last-updated: 2022-12-19
 ---
 
