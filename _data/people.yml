@@ -15,8 +15,9 @@ Guanglu:
 Tito:
     display_name: "Tito Babatunde"
     role: grad
-    image: /img/people/babatunde.jpg
-    bio: DNA nanotechnology and automated design
+    webpage: "https://titobabatunde.github.io/index.html"
+    image: /img/people/babatunde.jpeg
+    bio: Automated Design for DNA Origami Nanostructures
 
 Fransisco:
     display_name: "Fransisco Boschetti"
