@@ -36,6 +36,7 @@ body {
 a > .fa {
     // make sure that font-awesome icons are underlined in links
     display: inline;
+    // color: #C41230;
 }
 
 /* /\* Customize container *\/ */
@@ -51,8 +52,8 @@ a > .fa {
     padding-top: 1.5em;
     padding-bottom: 0.5em;
     font-size: 175%;
-    // background: #941120;
-    background: #696969 url("../img/tartan-digital-600x600.png") center center;
+    // background: #C41230    ;
+    background: #696969 url("../img/cmu-tartan-wave-red-crop-02.png") center center;
     // opacity: 0.5;
     // background-image: url("../img/tartan-digital-600x600.png");
     background-size: cover;
@@ -69,8 +70,32 @@ a > .fa {
     width: 130px;
 }
 
+.nav-item {
+    font-size: 16pt;
+    font-family: inherit;
+    // font-weight: bold;
+}
+
+a {
+
+    color: $red;
+
+}
+
+a:hover{
+    color: $red;
+    text-decoration: none;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: $red;
+}
+
 ul.nav {
     margin-top: 75px;
+    // background-color: $red;
+    // color: $red;
 }
 
 /* Front page news. */
