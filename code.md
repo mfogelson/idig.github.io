@@ -2,8 +2,8 @@
 layout: default
 title: Code
 ---
-This is an example of an additional page you could add to the site (and its navigation).
+Code developed by our lab is hosted on the [Integrated Design Innovation Group on GitHub](https://github.com/CMU-Integrated-Design-Innovation-Group). 
 
-If you like this template, find our group's other code here:
 
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+This website is based on code from the [SAMPA group at the University of Washington](https://github.com/uwsampa/research-group-web).
+

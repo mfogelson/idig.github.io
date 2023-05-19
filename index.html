@@ -27,12 +27,27 @@ role-tables:
 </div>
 
 <section>
-    <iframe width="420" height="315"
-        src="https://www.youtube.com/embed/zTWYJMaXDxc">
-    </iframe>
+    <h2>Featured Talks</h2>
+    <!-- {% include_relative _videos/uavU0QdgxYc.md %} -->
+
+     <!-- <ul class="news list-unstyled"> -->
+    <!-- {% for file in site.static_files %}
+    {% if file.path contains '_videos' %} -->
+    {% include youtube.html video_id=uavU0QdgxYc %}
+    <!-- {% endif %}
+    {% endfor %} -->
+    <!-- </ul> -->
+
+    <!-- {% assign numvids = site.videos | size %}
+    {% if numvids >= 1 %}
+        <p>
+            <span class="fa fa-fw fa-history"></span>
+            <a href="{{ site.baseurl }}/blog.html">Older videos&hellip;</a>
+        </p>
+    {% endif %} -->
 </section>
 
-<section>
+<!-- <section>
     <h2>News</h2>
     <ul class="news list-unstyled">
         {% for post in site.posts limit: site.front_page_news %}
@@ -43,10 +58,10 @@ role-tables:
     {% if numposts >= 1 %}
         <p>
             <span class="fa fa-fw fa-history"></span>
-            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+            <a href="{{ site.baseurl }}/blog.html">Older posts&hellip;</a>
         </p>
     {% endif %}
-</section>
+</section> -->
 
 <section>
     <h2>Research</h2>
