@@ -19,14 +19,16 @@ roles:
     name: Researchers
   - key: grad
     name: Graduate Students
-  # - key: ugrad
-  #   name: Undergraduate Students
-  # - key: ugrad-alum
-  #   name: Past Undergraduate Students
-  # - key: collab
-  #   name: Collaborators
-  - key: alum
-    name: Alumni
+  - key: ugrad
+    name: Undergraduate Students
+  - key: ugrad-alum
+    name: Past Undergraduate Students
+  - key: collab
+    name: Collaborators
+  - key: doc-alum
+    name: Doctoral Alumni
+  - key: masters-alum
+    name: Masters Alumni
 
 # Number of news stories on the front page.
 front_page_news: 8

@@ -43,12 +43,6 @@ Mitch:
     bio: Physics Informed Design Automation
     image: /img/people/fogelson.png
 
-Ernest:
-    display_name: "Ernest Kabuye"
-    role: grad
-    bio: Assistive Devices for Medical Surgury
-    image: /img/people/kabuye.jpeg
-
 Scotty:
     display_name: "Scotty McGee"
     role: grad
@@ -64,6 +58,7 @@ SeanR:
 AJ: 
     display_name: "AJ Vetturini"
     role: grad
+    webpage: https://ajvetturini.github.io/
     bio: Computational Design of DNA Nano-systems
     image: /img/people/Vetturini.jpeg
 
@@ -73,24 +68,177 @@ Lisha:
     image: /img/people/white.jpeg
     bio: Design Automation for Addative Manufacturing
 
+Mangalam:
+    display_name: "Mangalam Sahai"
+    role: grad
+    image: /img/people/mangalam.jpeg
+    bio: AI for Medical Diagnosis
+
+Ernest:
+    display_name: "Ernest Kabuye"
+    role: doc-alum
+    bio: "Ph.D., 2023. Now at Boston Consulting Group"
+    image: /img/people/kabuye.jpeg
+
 Leah:
     display_name: "Leah Chong"
-    role: alum
+    role: doc-alum
     image: /img/people/chong2.jpeg
     bio: "Ph.D., 2022. Now at MIT Post Doc."
 
 Josh:
     display_name: "Josh Gryory"
-    role: alum
+    role: doc-alum
     image: /img/people/gyory1.jpeg
     bio: "Ph.D., 2022. Now at Boston Consulting Group"
 
 Ayush:
     display_name: "Ayush Raina"
-    role: alum
+    role: doc-alum
     image: /img/people/raina.jpeg
     bio: "Ph.D., 2022. Now at Sony Research"
 
+Daniel:
+    display_name: "Daniel Clymer"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/daniel-clymer-998b5bb7/
+    bio: "Ph.D., 2019. Now Senior Research Scientist at BAE Systems"
+
+Kosa:
+    display_name: "Kosa Goucher-Lambert"
+    role: doc-alum
+    webpage: https://me.berkeley.edu/people/kosa-goucher-lambert/
+    bio: "Ph.D., 2017. Now Assistant Professor of UC Berkeley"
+
+Chris:
+    display_name: "Chris McComb"
+    role: doc-alum
+    webpage: https://cmccomb.com/
+    bio: "Ph.D., 2017. Now Associate Professor at Carnegie Mellon University"
+
+Mark:
+    display_name: "Mark E. Whiting"
+    role: doc-alum
+    webpage: https://whiting.me/
+    bio: "Ph.D., 2017. Now Senior Computational Social Scientist at the CSSLab at Penn"
+
+Paul:
+    display_name: "Paul Egan"
+    role: doc-alum
+    webpage: https://www.depts.ttu.edu/me/faculty/paul_egan/index.php
+    bio: "Ph.D., 2014. Now Associate Professor at Texas Tech University"
+
+Byrony:
+    display_name: "Bryony DuPont"
+    role: doc-alum
+    webpage: https://engineering.oregonstate.edu/people/bryony-dupont
+    bio: "Ph.D., 2013. Now Assistant Professor at Oregon State University"
+
+Brian:
+    display_name: "Brian Sylcott"
+    role: doc-alum
+    webpage: https://cet.ecu.edu/engineering/faculty-and-staff/brian-sylcott/
+    bio: "Ph.D., 2013. Now Associate Professor at East Carolina University"
+
+Matthew:
+    display_name: "Matthew Wood"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/matthewdwoodaptima/
+    bio: "Ph.D., 2013. Now Senior Scientist at Aptina, Inc."
+
+Katherine:
+    display_name: "Katherine Fu"
+    role: doc-alum
+    webpage: https://www.me.gatech.edu/faculty/fu
+    bio: "Ph.D., 2012. Now Adjunct Professor at Georgia Tech"
+
+Ian:
+    display_name: "Ian Tseng"
+    role: doc-alum
+    bio: "Ph.D., 2011. Now Engineer at United States Nuclear Regulatory Commission"
+
+Lindsay:
+    display_name: "Lindsay Hanna Landry"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/lindsay-landry-7023b7a
+    bio: "Ph.D., 2009. Now Director at Pratt & Whitney"
+
+Seth:
+    display_name: "Seth Osborn"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/sethorsborn/
+    bio: "Ph.D., 2007. Now Founder and Director at Product Design and Innovation (PDI)"
+
+Moss:
+    display_name: "Jarrod Moss"
+    role: doc-alum
+    webpage: https://www.psychology.msstate.edu/people/jarrod-moss/
+    bio: "Ph.D., 2006. Now Founder at XXY Innovation"
+
+Xiangyang:
+    display_name: "Xiangyang Xin"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/xiangyang-xin-28b0872/
+    bio: "Ph.D., 2006. Now Associate Professor and Director of the Cognitive Science Program at Mississippi State University"
+
+Olson:
+    display_name: "Jesse Olson"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/jessetolson/
+    bio: "Ph.D., 2006. Now VP Engineering at Base Operations"
+
+Chandankumar:
+    display_name: "Chandankumar Aladahalli"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/chandan-aladahalli-ba54a316/
+    bio: "Ph.D., 2004. Now Senior Scientist AI and Computer Vision at GE Healthcare"
+
+Jay:
+    display_name: "Jay McCormack"
+    role: doc-alum
+    webpage: https://www.rose-hulman.edu/academics/faculty/mccormack-jay-mccormac.html
+    bio: "Ph.D., 2003. Now Professor at Rose-Hulman Institute of Technology"
+
+Matthew:
+    display_name: "Matthew Campbell"
+    role: doc-alum
+    webpage: https://design.engr.oregonstate.edu/campbell
+    bio: "Ph.D., 2000. Now Professor at Oregon State University"
+
+Su:
+    display_name: "Su Yin"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/su-yin-301a13104/
+    bio: "Ph.D., 2000. Now Principal Engineer at Parker Aerospace "
+
+Manish:
+    display_name: "Manish Agarwal"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/manish-agarwal-92985622/
+    bio: "Ph.D., 1999. Now General Partner at AXA Equitable Life Insurance Co."
+
+Kristina:
+    display_name: "Kristina Shea"
+    role: doc-alum
+    webpage: https://mavt.ethz.ch/people/person-detail.shea.html
+    bio: "Ph.D., 1997. Now Full Professor at ETH Zurich"
+
+Linda:
+    display_name: "Linda Schmidt"
+    role: doc-alum
+    webpage: https://lschmidt.umd.edu/
+    bio: "Ph.D., 1995. Now Associate Professor at University of Maryland"
+
+Simon:
+    display_name: "Simon Szykman"
+    role: doc-alum
+    webpage: https://www.linkedin.com/in/szykman/
+    bio: "Ph.D., 1995. Now Senior Vice President for Client Growth at Maximus"
+
+Hubert:
+    display_name: "Hubert Vasseur"
+    role: doc-alum
+    bio: "Ph.D., 1994. Now Engineer at Renault"
 # alum-d:
 #     display_name: "Alum D"
 #     role: alum
