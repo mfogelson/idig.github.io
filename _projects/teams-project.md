@@ -5,7 +5,6 @@ description: |
   Exploring the Effects of Adaptive Process Management on Design Teams and Design Problem-Solving
 
 people:
-  - Fransisco
   - Scotty
 
 layout: project

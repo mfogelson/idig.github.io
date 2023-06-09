@@ -19,11 +19,11 @@ Tito:
     image: /img/people/babatunde.jpeg
     bio: Automated Design for DNA Origami Nanostructures
 
-Fransisco:
-    display_name: "Fransisco Boschetti"
-    role: grad
-    image: /img/people/boschetti.jpeg
-    bio: Human Factors in Design Teams
+# Fransisco:
+#     display_name: "Fransisco Boschetti"
+#     role: grad
+#     image: /img/people/boschetti.jpeg
+#     bio: Human Factors in Design Teams
 
 Ethan:
     display_name: "Ethan Brownell"
