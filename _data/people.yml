@@ -89,6 +89,7 @@ Leah:
 Josh:
     display_name: "Josh Gryory"
     role: doc-alum
+    webpage: https://www.linkedin.com/in/joshua-gyory/
     image: /img/people/gyory1.jpeg
     bio: "Ph.D., 2022. Now at Boston Consulting Group"
 
@@ -320,6 +321,30 @@ Andrew:
     role: masters-alum
     bio: "Formal Criteria for Robust Optimality"
 
+Josh:
+    display_name: "Josh Gryory"
+    role: postdoc-alum
+    webpage: https://www.linkedin.com/in/joshua-gyory/
+    image: /img/people/gyory1.jpeg
+    bio: "Ph.D., 2022. Now at Boston Consulting Group"
+
+Zack:
+    display_name: "Zack Ball"
+    role: postdoc-alum
+    webpage: https://www.linkedin.com/in/zachary-ball-phd-pe-4a159184/
+    bio: "Ph.D., 2020. Now Senior Engineer at ARCCA"
+
+Emrah:
+    display_name: "A. Emrah Bayrak"
+    role: postdoc-alum
+    webpage: https://www.linkedin.com/in/zachary-ball-phd-pe-4a159184/
+    bio: "Ph.D., 2015. Now Assistant Professor at Stevens Institute of Technology"
+
+Ut:
+    display_name: "Ut Na Sio"
+    role: postdoc-alum
+    webpage: https://www.sheffield.ac.uk/management/people/academic-staff/ut-na-sio
+    bio: "Ph.D. Now Assistant Professor at Stevens Institute of Technology"
 
 # alum-d:
 #     display_name: "Alum D"
