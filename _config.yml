@@ -58,5 +58,7 @@ navigation:
     link: /publications.html
   - title: Code
     link: /code.html
+  - title: Calendar
+    link: /schedule.html
   # - title: Calendar
   #   link: /calendar.html
