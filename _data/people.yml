@@ -239,6 +239,88 @@ Hubert:
     display_name: "Hubert Vasseur"
     role: doc-alum
     bio: "Ph.D., 1994. Now Engineer at Renault"
+
+Ashwini:
+    display_name: "Ashwini Asokan"
+    role: masters-alum
+    bio: "Design Languages for Cultural Context"
+
+Hillary:
+    display_name: "Hillary Carey"
+    role: masters-alum
+    bio: "A Corporate Decision Model of the Product Design Process"
+
+Steven:
+    display_name: "Steven (Pinzhi) Chen"
+    role: masters-alum
+    bio: "fMRI Studies and Data Mapping of Form-Function Reasoning"
+
+Drew:
+    display_name: "Drew Degentesh"
+    role: masters-alum
+    bio: "Effective Computational Structural Design and Analysis"
+
+Saurabh:
+    display_name: "Saurabh Deshpande"
+    role: masters-alum
+    bio: "Agent-Based Optimal Process Planning"
+
+Quan:
+    display_name: "Quan Ding"
+    role: masters-alum
+    bio: "Optimal Packing of Automobile Trunks"
+
+Ashish:
+    display_name: "Ashish Kolli"
+    role: masters-alum
+    bio: "Layout of Non-linear Shapes"
+
+Gyuho:
+    display_name: "Gyuho Kwak"
+    role: masters-alum
+    bio: "A User-Interactive Optimizing Routing Algorithm"
+
+Rosa:
+    display_name: "Rosa Lopez"
+    role: masters-alum
+    bio: "Quality Estimation Through Neural Networks"
+
+Luis:
+    display_name: "Luis Oms"
+    role: masters-alum
+    bio: "Investigation of Hip Fractures in the Elderly and Hip Pad Solution"
+
+Shashvat:
+    display_name: "Shashvat Prakash"
+    role: masters-alum
+    bio: "Hierarchical Method for Approximating MEMS Analysis"
+
+Giridhar:
+    display_name: "Giridhar Reddy"
+    role: masters-alum
+    bio: "Topological Generation of Truss Structures"
+
+Julie:
+    display_name: "Julie Reyer"
+    role: masters-alum
+    bio: "Computer Aided Systems Simulation"
+
+Jamie:
+    display_name: "Jamie Rugnetta"
+    role: masters-alum
+    bio: "Innovative Design of Walkers for Elders"
+
+Erika:
+    display_name: "Erika Wetzel"
+    role: masters-alum
+    bio: "Understanding Chaos in the Design Process"
+
+Andrew:
+    display_name: "Andrew Whittam"
+    role: masters-alum
+    bio: "Formal Criteria for Robust Optimality"
+
+
 # alum-d:
 #     display_name: "Alum D"
 #     role: alum
