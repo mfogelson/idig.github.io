@@ -35,6 +35,7 @@ SeanC:
     display_name: "Sean Chen"
     role: grad
     image: /img/people/chen.jpeg
+    bio: Deep Learning for Design
 
 Mitch:
     display_name: "Mitchell Fogelson"
