@@ -29,17 +29,27 @@ role-tables:
     </p>
 </div>
 
-<!-- <section> -->
+<section> 
     <!-- <h2>Featured Talks</h2> -->
-    <!-- {% include_relative _videos/uavU0QdgxYc.md %} -->
+    <div class="auto-resizable-iframe">
+        <div>
+            <iframe frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/zTWYJMaXDxc"></iframe>
+        </div>
+    </div>
+    <!-- <div class="auto-resizable-iframe">
+        <div>
+          <iframe frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/uavU0QdgxYc"></iframe>
+        </div>
+      </div> -->
+    <!-- {% include_relative _videos/uavU0QdgxYc.md %}
 
-     <!-- <ul class="news list-unstyled"> -->
-    <!-- {% for file in site.static_files %}
-    {% if file.path contains '_videos' %} -->
-    <!-- {% include youtube.html video_id=uavU0QdgxYc %} -->
-    <!-- {% endif %}
-    {% endfor %} -->
-    <!-- </ul> -->
+    <ul class="news list-unstyled">
+    {% for file in site.static_files %}
+        {% if file.path contains '_videos' %}
+            {% include youtube.html video_id=uavU0QdgxYc %}
+        {% endif %}
+    {% endfor %}
+    </ul> -->
 
     <!-- {% assign numvids = site.videos | size %}
     {% if numvids >= 1 %}
@@ -48,7 +58,7 @@ role-tables:
             <a href="{{ site.baseurl }}/blog.html">Older videos&hellip;</a>
         </p>
     {% endif %} -->
-<!-- </section> -->
+</section>
 
 <!-- <section>
     <h2>News</h2>
