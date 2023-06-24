@@ -40,7 +40,7 @@ SeanC:
 Mitch:
     display_name: "Mitchell Fogelson"
     role: grad
-    webpage: mitchellfogelson.com
+    webpage: "https://www.mitchellfogelson.com/"
     bio: Physics Informed Design Automation
     image: /img/people/fogelson.png
 
