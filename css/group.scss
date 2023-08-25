@@ -129,6 +129,25 @@ ul.news {
     }
 }
 
+// .card-columns {
+//     display: grid;
+//     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* or however wide you want the cards */
+//     grid-auto-rows: auto; /* or however tall you want the cards */
+//     gap: 16px;  /* Add gaps between grid items */
+//   }
+
+// .card-columns {
+//     display: flex;
+//     flex-wrap: wrap;
+// }
+
+// .card-columns > * {
+//     flex: 1;
+//     margin: 8px;
+//     min-width: calc(100% - 16px); /* 1 item per row by default */
+// }
+
+
 @media (min-width: 576px) {
     .project-people { column-count: 2 }
     .card-columns   { column-count: 2 }

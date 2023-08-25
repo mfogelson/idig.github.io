@@ -1,7 +1,7 @@
 
 JonCagan:
     display_name: "Jonathan Cagan"
-    webpage: "https://jonathancagan.com/"
+    webpage: "https://www.meche.engineering.cmu.edu/directory/bios/cagan-jonathan.html"
     role: faculty
     image: /img/people/joncagan.jpeg
     bio: Professor, Department Head
@@ -27,9 +27,10 @@ Tito:
 
 Ethan:
     display_name: "Ethan Brownell"
-    role: grad
+    role: doc-alum
     image: /img/people/brownell.jpeg
-    bio: Computational models of Design Teams
+    webpage: "https://www.linkedin.com/in/ethanbrownell/"
+    bio: "Ph.D., 2023. Now Systems Analyst at Lawrence Livermore National Laboratory"
 
 SeanC:
     display_name: "Sean Chen"
@@ -52,8 +53,9 @@ Scotty:
 
 SeanR:
     display_name: "Sean Rismiller"
-    role: grad
-    bio: Computational Models for Design Teams
+    role: doc-alum
+    bio: "Ph.D., 2023."
+    webpage: "https://www.linkedin.com/in/seanrismiller/"
     image: /img/people/rismiller.jpeg
 
 AJ: 
@@ -78,7 +80,8 @@ Mangalam:
 Ernest:
     display_name: "Ernest Kabuye"
     role: doc-alum
-    bio: "Ph.D., 2023. Now at Boston Consulting Group"
+    webpage: "https://www.linkedin.com/in/ernest-kabuye-ph-d-7568ba18/"
+    bio: "Ph.D., 2023. Now at Bain & Company"
     image: /img/people/kabuye.jpeg
 
 Leah:
@@ -98,6 +101,7 @@ Ayush:
     display_name: "Ayush Raina"
     role: doc-alum
     image: /img/people/raina.jpeg
+    webpage: "https://www.linkedin.com/in/ayush-raina-400a6486/"
     bio: "Ph.D., 2022. Now at Sony Research"
 
 Daniel:
