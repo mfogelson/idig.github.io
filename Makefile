@@ -12,6 +12,13 @@ _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
 build: _includes/pubs.html
 	jekyll build
 
+_includes/books.html: bib/books.bib bib/books.tmpl
+	mkdir -p _includes
+	$(BIBBLE) $+ > $@
+
+build: _includes/books.html
+	jekyll build
+
 # you can configure these at the shell, e.g.:
 # SERVE_PORT=5001 make serve
 SERVE_HOST ?= 127.0.0.1
