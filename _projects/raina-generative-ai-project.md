@@ -9,6 +9,8 @@ people:
 layout: project
 image: img/learningfromhumans1.png
 last-updated: 2022-12-19
+# status: inactive
+
 ---
 
 This study explores the potential for synergetic human-agent collaboration in design through a deep learning framework. The framework learns from historical human behavior to create visual representations of future design states, essentially functioning as a visual imitation-based learning system. Trained on videos of humans designing bridges, the framework generates comparable designs without requiring specific design operation data. It then uses a rule-based algorithm to execute these designs. The results indicate that the agent successfully extracts implicit design strategies from human data, showing promise for applications in consecutive decision-making processes. Future work may explore goal-driven environments and hybrid learning approaches to further enhance agent performance.

@@ -10,6 +10,7 @@ people:
 layout: project
 image: img/manager2.png
 last-updated: 2022-12-19
+# status: inactive
 ---
 
 An artificial intelligence (AI) process manager agent is created to manage the design process of engineering teams in real-time, tracking features of teams’ actions and communications during a complex design and path-planning task with multidisciplinary team members, and making decisions on when to nudge the team to communicate or act differently. A study is run that compares AI-managed and human-managed teams. Across several dimensions, the overall results show that the AI manager agent at least matches the capabilities of the human managers, and even marginally performs better when the problem is changed for AI- and human-managed teams alike. Before and after analyses of the interventions indicate mixed adherence to the different types of interventions as induced in the intended process changes in the teams, and regression analyses show the impact of different interventions. Overall, this work lays the groundwork for a computational development and deployment of adaptive process management, with the goal to make engineering design as efficient as possible. showing potential in automating the management of a complex design process.

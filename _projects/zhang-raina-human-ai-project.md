@@ -10,6 +10,8 @@ people:
 layout: project
 image: img/ImpactOfAIOnTeams1.jpeg
 last-updated: 2022-12-19
+# status: inactive
+
 ---
 This research examines the dynamics of human-AI collaboration in engineering design and decision-making. In design tests involving truss bridges, AI-assisted teams initially outperform human-only teams but later reach parity or even underperform. High-performing teams actually suffer from AI integration, experiencing cognitive overload and misplaced confidence, which results in an "illusion of success." In the context of decision-making, the study finds that humans often misattribute poor AI performance to themselves, impacting their self-confidence and willingness to either accept or reject AI suggestions. This leads to a vicious cycle where humans rely on ineffective AI guidance. Overall, the studies highlight the complexities and pitfalls of human-AI interaction, suggesting the need for better design and calibration of AI to suit human cognitive patterns and improve collaborative performance.
 

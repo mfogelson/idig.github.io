@@ -1,16 +1,26 @@
 
+## Professor 
 JonCagan:
-    display_name: "Jonathan Cagan"
+    display_name: "Dr. Jonathan Cagan P.E."
     webpage: "https://www.meche.engineering.cmu.edu/directory/bios/cagan-jonathan.html"
     role: faculty
     image: /img/people/joncagan.jpeg
-    bio: Professor, Department Head
-
+    bio: Ladd Professor and Coulter Head of Mechanical Engineering 
+    
+## Researchers 
 Guanglu:
-    display_name: "Guanglu Zhang"
+    display_name: "Dr. Guanglu Zhang"
     webpage: "https://www.researchgate.net/profile/Guanglu-Zhang"
     role: staff
     image: /img/people/guanglu.jpeg
+
+
+## Current Grad Students
+Lisha:
+    display_name: "Lisha White"
+    role: grad
+    image: /img/people/white.jpeg
+    bio: Design Automation for Addative Manufacturing
 
 Tito:
     display_name: "Tito Babatunde"
@@ -18,19 +28,6 @@ Tito:
     webpage: "https://titobabatunde.github.io/index.html"
     image: /img/people/babatunde.jpeg
     bio: Automated Design for DNA Origami Nanostructures
-
-# Fransisco:
-#     display_name: "Fransisco Boschetti"
-#     role: grad
-#     image: /img/people/boschetti.jpeg
-#     bio: Human Factors in Design Teams
-
-Ethan:
-    display_name: "Ethan Brownell"
-    role: doc-alum
-    image: /img/people/brownell.jpeg
-    webpage: "https://www.linkedin.com/in/ethanbrownell/"
-    bio: "Ph.D., 2023. Now Systems Analyst at Lawrence Livermore National Laboratory"
 
 SeanC:
     display_name: "Sean Chen"
@@ -51,13 +48,6 @@ Scotty:
     bio: AI Managers for Design Teams
     image: /img/people/mcgee.jpeg
 
-SeanR:
-    display_name: "Sean Rismiller"
-    role: doc-alum
-    bio: "Ph.D., 2023."
-    webpage: "https://www.linkedin.com/in/seanrismiller/"
-    image: /img/people/rismiller.jpeg
-
 AJ: 
     display_name: "AJ Vetturini"
     role: grad
@@ -65,17 +55,29 @@ AJ:
     bio: Computational Design of DNA Nano-systems
     image: /img/people/Vetturini.jpeg
 
-Lisha:
-    display_name: "Lisha White"
-    role: grad
-    image: /img/people/white.jpeg
-    bio: Design Automation for Addative Manufacturing
-
 Mangalam:
     display_name: "Mangalam Sahai"
     role: grad
     image: /img/people/mangalam.jpeg
     bio: AI for Medical Diagnosis
+
+
+## Prior Grad Students
+
+Ethan:
+    display_name: "Ethan Brownell"
+    role: doc-alum
+    image: /img/people/brownell.jpeg
+    webpage: "https://www.linkedin.com/in/ethanbrownell/"
+    bio: "Ph.D., 2023. Now Systems Analyst at Lawrence Livermore National Laboratory"
+
+
+SeanR:
+    display_name: "Sean Rismiller"
+    role: doc-alum
+    bio: "Ph.D., 2023."
+    webpage: "https://www.linkedin.com/in/seanrismiller/"
+    image: /img/people/rismiller.jpeg
 
 Ernest:
     display_name: "Ernest Kabuye"
@@ -246,6 +248,8 @@ Hubert:
     role: doc-alum
     bio: "Ph.D., 1994. Now Engineer at Renault"
 
+
+## Prior Masters Students
 Ashwini:
     display_name: "Ashwini Asokan"
     role: masters-alum
@@ -326,6 +330,8 @@ Andrew:
     role: masters-alum
     bio: "Formal Criteria for Robust Optimality"
 
+
+## Prior Postdocs
 Josh:
     display_name: "Josh Gryory"
     role: postdoc-alum

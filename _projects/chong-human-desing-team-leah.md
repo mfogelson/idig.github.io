@@ -9,6 +9,7 @@ people:
 layout: project
 image: img/leah_ai_team.png
 last-updated: 2022-12-19
+# status: inactive
 ---
 
 Decision-making assistance by an AI is only effective when human designers properly utilize AI input. Unfortunately, designers often misjudge the AI’s and/or their own ability, leading to erroneous reliance on AI and therefore bad designs. This project seeks to understand the evolution of designers’ confidence in both their AI teammate and themselves during AI-assisted decision-making, when the AI is no perfect. A cognitive study utilized a quantitative model of human confidence to explore how experiencing various and changing (without notice) AI performance levels and feedback affects designers’ confidences and consequently their decisions to accept or reject AI suggestions. One study involves a truss design task in which the participants are asked to consider the AI teammate’s suggestions and make the best next design move that leads to a truss with a high strength-to-weight ratio using a highly competent truss design AI algorithm. A different study uses game states of a chess board to explore the generality of the work.
