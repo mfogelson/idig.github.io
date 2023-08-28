@@ -345,6 +345,11 @@ Zack:
     webpage: https://www.linkedin.com/in/zachary-ball-phd-pe-4a159184/
     bio: "Ph.D., 2020. Now Senior Engineer at ARCCA"
 
+Kosa_Goucher_Lambert:
+    display_name: "Kosa Goucher-Lambert"
+    role: postdoc-alum
+    bio: "Team-based Problem Solving (co-advised with K. Kotovsky) (7/17-12/18) – now Assistant Professor at UC Berkeley"
+
 Emrah:
     display_name: "A. Emrah Bayrak"
     role: postdoc-alum
@@ -356,6 +361,31 @@ Ut:
     role: postdoc-alum
     webpage: https://www.sheffield.ac.uk/management/people/academic-staff/ut-na-sio
     bio: "Ph.D. Now Assistant Professor at Stevens Institute of Technology"
+
+Chris_McComb:
+    display_name: "Chris McComb"
+    role: postdoc-alum
+    bio: "Computational Team Design (co-advised with K. Kotovsky) (8/16-8/17) – Now Assistant Professor at Carnegie Mellon University"
+
+Shraddha_Joshi:
+    display_name: "Shraddha Joshi"
+    role: postdoc-alum
+    bio: "Design of Connected Products (9/14 – 8/16) – now Assistant Professor at James Madison University"
+
+Jarrod_Moss:
+    display_name: "Jarrod Moss"
+    role: postdoc-alum
+    bio: "Research on Open Goals in Creative Problem Solving (co-advised with K. Kotovsky) (6/06-5/07) - now Associate Professor at Mississippi State University"
+
+Jay_McCormick:
+    display_name: "Jay McCormick"
+    role: postdoc-alum
+    bio: "Shape Grammar Interpreters for Product Design (6/03-5/04) - now Associate Professor at Rose-Hulman"
+
+Kenneth_Brown:
+    display_name: "Kenneth Brown"
+    role: postdoc-alum
+    bio: "A Shape Annealing Approach to Process Planning (94-95) - now Lecturer at University of Aberdeen"
 
 # alum-d:
 #     display_name: "Alum D"
