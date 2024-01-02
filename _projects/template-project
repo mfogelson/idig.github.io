@@ -1,0 +1,15 @@
+---
+title: Title
+description: | 
+    description
+
+people:
+  - People
+
+layout: project
+image: <image>.jpg
+last-updated: <date>
+status: <status>
+
+---
+<Text>

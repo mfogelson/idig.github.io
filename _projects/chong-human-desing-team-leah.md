@@ -9,6 +9,8 @@ people:
 layout: project
 image: img/leah_ai_team.png
 last-updated: 2022-12-19
+status: active
+
 # status: inactive
 ---
 

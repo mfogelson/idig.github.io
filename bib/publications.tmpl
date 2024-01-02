@@ -1,6 +1,6 @@
 <table class="table">
 <tbody>
-	{%- set prev_year = 1900 %}
+	{%- set prev_years = [1900] %}
 	{%- for entry in entries %}
 	<tr>
 		<td>
@@ -9,7 +9,6 @@
 				<big><strong>{{ entry.fields['year'] }}</strong></big><br />
 				{% endif %}
 				{%- set prev_year = entry.fields['year'] %}
-				{{ entry.fields['month']|monthname }}
 			</span>
 		</td>
 		<td class="publication">
@@ -27,19 +26,12 @@
 				{{ entry.persons['author']|author_list }}.
 			</span><br />
 			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry|venue -}}</span>.
-			{%- if entry.fields['pages'] %}
-			<span class="page-numbers">Page: {{ entry.fields['pages']|escape }}.</span><br /> <!-- Added page numbers -->
-			{%- endif %}
-			{%- if entry.fields['doi'] %}
-			<span class="doi">DOI: {{ entry.fields['doi']|escape }}.</span><br /> <!-- Added DOI -->
-			{%- endif %}
 			{%- if entry.fields['note'] %}
 			<span class="note">
 			{{ entry.fields['note']|escape }}.
 			</span>
 			{%- endif %}
 			<br />
-			
 			<span class="links">
 			{%- for type, url in (entry|extra_urls).items() %}
 				[<a href="{{ url|escape }}">{{ type|escape }}</a>]

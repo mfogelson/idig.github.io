@@ -10,6 +10,7 @@ people:
 layout: project
 image: img/coated-dna-origami-project.png
 last-updated: 2023-05-16
+status: active
 ---
 
 

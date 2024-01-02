@@ -9,6 +9,8 @@ people:
 layout: project
 image: img/learningfromhumans1.png
 last-updated: 2022-12-19
+status: active
+
 # status: inactive
 
 ---

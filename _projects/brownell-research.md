@@ -10,6 +10,8 @@ people:
 layout: project
 image: img/brownell-research.png
 last-updated: 2023-03-18
+status: active
+
 # status: inactive
 ---
 

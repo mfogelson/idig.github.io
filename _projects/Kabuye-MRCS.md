@@ -9,6 +9,8 @@ people:
 layout: project
 image: img/MRCS.png
 last-updated: 2023-03-19
+status: active
+
 # status: inactive
 
 ---

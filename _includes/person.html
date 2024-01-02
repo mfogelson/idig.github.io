@@ -42,8 +42,17 @@ there by default by Bootstrap columns.
 {% else %}
     <div class="person person-without-image">
         {{ name }}
-        {% if person.bio %}
-            <span class="bio">{{person.bio}}</span>
+
+        {% if person.year %}
+            <div class="bio">{{person.year}}</div>
+        {% endif %}
+
+        {% if person.thesis %}
+            <div class="bio">Thesis: {{person.thesis}}</div>
+        {% endif %}
+
+        {% if person.now %}
+            <div class="bio">Now: {{person.now}}</div>
         {% endif %}
     </div>
 {% endif %}

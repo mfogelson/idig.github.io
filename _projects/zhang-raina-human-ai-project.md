@@ -10,6 +10,8 @@ people:
 layout: project
 image: img/ImpactOfAIOnTeams1.jpeg
 last-updated: 2022-12-19
+status: active
+
 # status: inactive
 
 ---

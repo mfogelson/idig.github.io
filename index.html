@@ -83,7 +83,7 @@ role-tables:
         {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
         {% assign projects_by_date = projects_by_date | reverse %}
         {% for p in projects_by_date %}
-            {% if p.status != "inactive" %}
+            {% if p.status == "active" %}
                 {% include project-card.html project=p %}
             {% endif %}
         {% endfor %}

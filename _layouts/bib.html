@@ -1,0 +1,14 @@
+---
+---
+<script src="assets/scripts/copyCitation.js"></script>
+
+{% if entry.hidden_url %}
+<a href="{{ entry.hidden_url }}">{{reference}}</a>
+{% else %} {{reference}} {% endif %}
+<button class="copy-citation-button" onclick="copyToClipboard('{{ entry.bibtex | strip_newlines | escape }}')">Copy Bibtex </button>
+
+
+
+  
+
+

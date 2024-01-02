@@ -1,7 +1,7 @@
 
 ## Professor 
 JonCagan:
-    display_name: "Dr. Jonathan Cagan P.E."
+    display_name: "Dr. Jonathan Cagan"
     webpage: "https://www.meche.engineering.cmu.edu/directory/bios/cagan-jonathan.html"
     role: faculty
     image: /img/people/joncagan.jpeg
@@ -16,11 +16,6 @@ Guanglu:
 
 
 ## Current Grad Students
-Lisha:
-    display_name: "Lisha White"
-    role: grad
-    image: /img/people/white.jpeg
-    bio: Design Automation for Addative Manufacturing
 
 Tito:
     display_name: "Tito Babatunde"
@@ -61,21 +56,39 @@ Mangalam:
     image: /img/people/mangalam.jpeg
     bio: AI for Medical Diagnosis
 
+Jennifer:
+    display_name: "Jennifer Evans"
+    role: grad
+    image: /img/people/evans.png
+    bio: Machine Learning applied to problem solving
+
 
 ## Prior Grad Students
+Lisha:
+    display_name: "Lisha White"
+    role: doc-alum
+    image: /img/people/white.jpeg
+    year: "Ph.D., 2023 (Co-advised with J. Zheng)"
+    thesis: "A Method to Design Hybrid Lattice Support Structures for LPBF"
+    # now: "TBD"
+    # bio: Design Automation for Addative Manufacturing
 
 Ethan:
     display_name: "Ethan Brownell"
     role: doc-alum
     image: /img/people/brownell.jpeg
     webpage: "https://www.linkedin.com/in/ethanbrownell/"
-    bio: "Ph.D., 2023. Now Systems Analyst at Lawrence Livermore National Laboratory"
+    year: "Ph.D., 2023 (Co-advised with K. Kotovsky)"
+    thesis: "Designing Better Design Teams: Studying Relative Contribution in Engineering Design with Proficient Heterogeneous Computational Agents"
+    now: "Systems Analyst at Lawrence Livermore National Laboratory"
 
 
 SeanR:
     display_name: "Sean Rismiller"
     role: doc-alum
-    bio: "Ph.D., 2023."
+    year: "Ph.D., 2023 (co-advised with C. McComb)"
+    thesis: "Using Multi-Agent Systems to Computationally Study Set-Based Concurrent Engineering and its Interactions with Team Organization and Problem Structure"
+    # now: ""
     webpage: "https://www.linkedin.com/in/seanrismiller/"
     image: /img/people/rismiller.jpeg
 
@@ -83,309 +96,536 @@ Ernest:
     display_name: "Ernest Kabuye"
     role: doc-alum
     webpage: "https://www.linkedin.com/in/ernest-kabuye-ph-d-7568ba18/"
-    bio: "Ph.D., 2023. Now at Bain & Company"
+    year: "Ph.D., 2023 (co-advised with P. LeDuc)"
+    thesis: "A Mixed Reality System Combining Augmented Reality, 3D Bio Printed Physical Environments and Inertial Measurement Unit Sensors for Task Planning"
+    now: "Bain & Company"
     image: /img/people/kabuye.jpeg
 
 Leah:
     display_name: "Leah Chong"
     role: doc-alum
     image: /img/people/chong2.jpeg
-    bio: "Ph.D., 2022. Now at MIT Post Doc."
+    year: "Ph.D., 2022 (co-advised with K. Kotovsky)"
+    thesis: "Role of Human Self-Confidence and Their Confidence in Artificial Intelligence in AI-Assisted Decision-Making in Engineering Design"
+    now: "MIT Post Doc"
 
 Josh:
     display_name: "Josh Gryory"
     role: doc-alum
     webpage: https://www.linkedin.com/in/joshua-gyory/
     image: /img/people/gyory1.jpeg
-    bio: "Ph.D., 2022. Now at Boston Consulting Group"
+    year: "Ph.D., 2022 (co-advised with K. Kotovsky)"
+    thesis: "Computationally Facilitating the Problem-Solving Design Process Via Real-Time Process Management"
+    now: "Consultant, Boston Consulting Group"
 
 Ayush:
     display_name: "Ayush Raina"
     role: doc-alum
     image: /img/people/raina.jpeg
     webpage: "https://www.linkedin.com/in/ayush-raina-400a6486/"
-    bio: "Ph.D., 2022. Now at Sony Research"
+    year: "Ph.D., 2022 (co-advised with C. McComb)"
+    thesis: "Towards Deep Learning Guided Search Agents for Sequentially Generative Design Problems"
+    now: "Senior Machine Learning Engineer, Sony Research"
 
 Daniel:
     display_name: "Daniel Clymer"
     role: doc-alum
     webpage: https://www.linkedin.com/in/daniel-clymer-998b5bb7/
-    bio: "Ph.D., 2019. Now Senior Research Scientist at BAE Systems"
+    year: "Ph.D., 2019 (co-advised with P. LeDuc)"
+    thesis: "Hierarchical Deep Learning for Disease Identification in High-Resolution Medical Imaging"
+    now: "Senior Research Scientist at BAE Systems"
 
 Kosa:
     display_name: "Kosa Goucher-Lambert"
     role: doc-alum
     webpage: https://me.berkeley.edu/people/kosa-goucher-lambert/
-    bio: "Ph.D., 2017. Now Assistant Professor of UC Berkeley"
+    year: "Ph.D., 2017"
+    thesis: "Investigating Decision Making in Engineering Design Through Complementary Behavioral and Cognitive Neuroimaging Experiments"
+    now:  "Assistant Professor of UC Berkeley"
 
 Chris:
     display_name: "Chris McComb"
     role: doc-alum
     webpage: https://cmccomb.com/
-    bio: "Ph.D., 2017. Now Associate Professor at Carnegie Mellon University"
+    year: "Ph.D., 2017 (co-advised with K. Kotovsky)"
+    thesis: "Designing the Characteristics of Design Teams via Cognitively Inspired Computational Modeling"
+    now: "Associate Professor at Carnegie Mellon University"
 
 Mark:
     display_name: "Mark E. Whiting"
     role: doc-alum
     webpage: https://whiting.me/
-    bio: "Ph.D., 2017. Now Senior Computational Social Scientist at the CSSLab at Penn"
+    year: "Ph.D., 2017 (Co-advised with P, LeDuc)"
+    thesis: "Anomaly Classification Through Automated Shape Grammar Representation"
+    now: "Senior Computational Social Scientist at the CSSLab at Penn"
 
 Paul:
     display_name: "Paul Egan"
     role: doc-alum
     webpage: https://www.depts.ttu.edu/me/faculty/paul_egan/index.php
-    bio: "Ph.D., 2014. Now Associate Professor at Texas Tech University"
+    year: "Ph.D., 2014 (co-advised with P. LeDuc)"
+    thesis: "Emergent Computational and Cognitive Model of Multi-Scale BioMechanics Design"
+    now: "Associate Professor at Texas Tech University"
 
 Byrony:
     display_name: "Bryony DuPont"
     role: doc-alum
     webpage: https://engineering.oregonstate.edu/people/bryony-dupont
-    bio: "Ph.D., 2013. Now Assistant Professor at Oregon State University"
+    year: "Ph.D., 2013"
+    thesis: "Exploring the Application of an Advanced Extended Pattern Search Algorithm within a Multi-Agent System to Wind Farm Optimization"
+    now: "Assistant Professor at Oregon State University"
 
 Brian:
     display_name: "Brian Sylcott"
     role: doc-alum
     webpage: https://cet.ecu.edu/engineering/faculty-and-staff/brian-sylcott/
-    bio: "Ph.D., 2013. Now Associate Professor at East Carolina University"
+    year: "Ph.D., 2013"
+    thesis: "Understanding the Role of Aesthetic Judgment in Consumer Choice and Preference Modeling"
+    now: "Associate Professor at East Carolina University"
 
 Matthew:
     display_name: "Matthew Wood"
     role: doc-alum
     webpage: https://www.linkedin.com/in/matthewdwoodaptima/
-    bio: "Ph.D., 2013. Now Senior Scientist at Aptina, Inc."
+    year: "Ph.D., 2013 (co-advised with K. Kotovsky)"
+    thesis: "Problem Representation and Team Mental Model Development in Individual and Team Problem Solving Performance"
+    now: "Senior Scientist at Aptina, Inc."
 
 Katherine:
     display_name: "Katherine Fu"
     role: doc-alum
     webpage: https://www.me.gatech.edu/faculty/fu
-    bio: "Ph.D., 2012. Now Adjunct Professor at Georgia Tech"
+    year: "Ph.D., 2012 (co-advised with K. Kotovsky)"
+    thesis: "Discovering and Exploring Structure in Design Databases and Its Role in Stimulating Design"
+    now: "Associate Professor at University of Wisconsin at Madison"
 
 Ian:
     display_name: "Ian Tseng"
     role: doc-alum
-    bio: "Ph.D., 2011. Now Engineer at United States Nuclear Regulatory Commission"
+    year: "Ph.D., 2011 (co-advised with K. Kotovsky)" 
+    theis: "The Unification of Stylistic Form & Function"
+    now: "Engineer at United States Nuclear Regulatory Commission"
 
 Lindsay:
     display_name: "Lindsay Hanna Landry"
     role: doc-alum
     webpage: https://www.linkedin.com/in/lindsay-landry-7023b7a
-    bio: "Ph.D., 2009. Now Director at Pratt & Whitney"
+    year: "Ph.D., 2009"
+    thesis: "Combinatory Adaptive Optimization with Multi-Agent Systems"
+    now: "Director at Pratt & Whitney"
 
 Seth:
     display_name: "Seth Osborn"
     role: doc-alum
     webpage: https://www.linkedin.com/in/sethorsborn/
-    bio: "Ph.D., 2007. Now Founder and Director at Product Design and Innovation (PDI)"
+    year: "Ph.D., 2007"
+    thesis: "Quantifying Aesthetic Preference Through Statistics Applied to an Agent-based Shape Grammar Implementation"
+    now: "Founder and Director at Product Design and Innovation (PDI) &  Research Professor, Southern Methodist University"
 
 Moss:
     display_name: "Jarrod Moss"
     role: doc-alum
     webpage: https://www.psychology.msstate.edu/people/jarrod-moss/
-    bio: "Ph.D., 2006. Now Founder at XXY Innovation"
+    year: "Ph.D., 2006 (co-advised with K. Kotovsky)"
+    thesis: "The Role of Open Goals in Noticing Relevant Information in Problem Solving" 
+    now: "Associate Professor at Mississippi State University & Founder at XXY Innovation"
 
 Xiangyang:
     display_name: "Xiangyang Xin"
     role: doc-alum
     webpage: https://www.linkedin.com/in/xiangyang-xin-28b0872/
-    bio: "Ph.D., 2006. Now Associate Professor and Director of the Cognitive Science Program at Mississippi State University"
+    year: "Ph.D., 2006 (co-advised w/ C. Vogel)" 
+    thesis: "Product Innovation in A Cultural Context - A Method Applied To Chinese Product Development"
+    now: "Associate Professor and Director of the Cognitive Science Program at Mississippi State University"
 
 Olson:
     display_name: "Jesse Olson"
     role: doc-alum
     webpage: https://www.linkedin.com/in/jessetolson/
-    bio: "Ph.D., 2006. Now VP Engineering at Base Operations"
+    year: "Ph.D., 2006 (co-advised with K. Kotovsky)"
+    thesis: "The Collective Potential: Achieving Organizational Potential by Design"
+    now: "VP Engineering at Base Operations"
 
 Chandankumar:
     display_name: "Chandankumar Aladahalli"
     role: doc-alum
     webpage: https://www.linkedin.com/in/chandan-aladahalli-ba54a316/
-    bio: "Ph.D., 2004. Now Senior Scientist AI and Computer Vision at GE Healthcare"
+    year: "Ph.D., 2004 (co-advised with K. Shimada)"
+    thesis: " Improved Pattern Search Algorithm Using an Objective Function Effect Based Move Schedule for 3D Component Layout"
+    now: "Senior Scientist AI and Computer Vision at GE Healthcare"
 
 Jay:
     display_name: "Jay McCormack"
     role: doc-alum
     webpage: https://www.rose-hulman.edu/academics/faculty/mccormack-jay-mccormac.html
-    bio: "Ph.D., 2003. Now Professor at Rose-Hulman Institute of Technology"
+    year: "Ph.D., 2003"
+    thesis: "Implementing Parametric Shape Grammars to Capture and Explore Product Languages"
+    now: "Professor at Rose-Hulman Institute of Technology"
 
-Matthew:
+Campbell:
     display_name: "Matthew Campbell"
     role: doc-alum
     webpage: https://design.engr.oregonstate.edu/campbell
-    bio: "Ph.D., 2000. Now Professor at Oregon State University"
+    year: "Ph.D., 2000 (co-advised with K. Kotovsky)"
+    thesis: "A-Design: An Agent-Based Conceptual Design Methodology"
+    now: "Professor at Oregon State University"
 
 Su:
     display_name: "Su Yin"
     role: doc-alum
     webpage: https://www.linkedin.com/in/su-yin-301a13104/
-    bio: "Ph.D., 2000. Now Principal Engineer at Parker Aerospace "
+    year: "Ph.D., 2000"
+    thesis: "A Pattern Search-Based Algorithm for Automated Product Layout"
+    now: "Principal Engineer at Parker Aerospace "
 
 Manish:
     display_name: "Manish Agarwal"
     role: doc-alum
     webpage: https://www.linkedin.com/in/manish-agarwal-92985622/
-    bio: "Ph.D., 1999. Now General Partner at AXA Equitable Life Insurance Co."
+    year: "Ph.D., 1999"
+    thesis: "Supporting Automated Design Generation: Function Based Shape Grammars and Insightful Optimization" 
+    now: "General Partner at AXA Equitable Life Insurance Co."
 
 Kristina:
     display_name: "Kristina Shea"
     role: doc-alum
     webpage: https://mavt.ethz.ch/people/person-detail.shea.html
-    bio: "Ph.D., 1997. Now Full Professor at ETH Zurich"
+    year: "Ph.D., 1997"
+    thesis: "Essays of Discrete Structures: Purposeful Design of Grammatical Structures by Directed Stochastic Search"
+    now: "Full Professor at ETH Zurich"
+
+Woncheol:
+    display_name: "Jack (Woncheol) Choi"
+    role: doc-alum
+    year: "Ph.D., 1996 (co-advised with T.R. Kurfess; Kurfess primary advisor)"
+    thesis: "Determination of Optimal Inspection Point Locations"
+    now: "President and CEO of Anatomage"
 
 Linda:
     display_name: "Linda Schmidt"
     role: doc-alum
     webpage: https://lschmidt.umd.edu/
-    bio: "Ph.D., 1995. Now Associate Professor at University of Maryland"
+    year: "Ph.D., 1995"
+    thesis: "An Implementation Using Grammars of an Abstraction-Based Model of Mechanical Design for Design Optimization and Design Space Characterization"
+    now: "former Associate Professor at University of Maryland"
 
 Simon:
     display_name: "Simon Szykman"
     role: doc-alum
     webpage: https://www.linkedin.com/in/szykman/
-    bio: "Ph.D., 1995. Now Senior Vice President for Client Growth at Maximus"
+    year: "Ph.D., 1995"
+    thesis: "Optimal Product Layout Using Simulated Annealing"
+    now: "Senior Vice President for Client Growth at Maximus"
 
 Hubert:
     display_name: "Hubert Vasseur"
     role: doc-alum
-    bio: "Ph.D., 1994. Now Engineer at Renault"
+    year: "Ph.D., 1994 (co-advised with T.R. Kurfess) "
+    thesis: "Manufacturing Quality and Process Capability: a Cost-Based Analysis"
+    now: "Engineer at Renault"
 
 
 ## Prior Masters Students
-Ashwini:
-    display_name: "Ashwini Asokan"
-    role: masters-alum
-    bio: "Design Languages for Cultural Context"
+Manish_Agarwal:
+  display_name: "Manish Agarwal"
+  role: masters-alum
+  thesis: "A Language of Coffee Makers"
 
-Hillary:
-    display_name: "Hillary Carey"
-    role: masters-alum
-    bio: "A Corporate Decision Model of the Product Design Process"
+Ashwini_Asokan:
+  display_name: "Ashwini Asokan"
+  role: masters-alum
+  thesis: "Design Languages for Cultural Context"
 
-Steven:
-    display_name: "Steven (Pinzhi) Chen"
-    role: masters-alum
-    bio: "fMRI Studies and Data Mapping of Form-Function Reasoning"
+Chandankumar_Aladahalli:
+  display_name: "Chandankumar Aladahalli"
+  role: masters-alum
+  thesis: "Characterizing Layout Spaces"
 
-Drew:
-    display_name: "Drew Degentesh"
-    role: masters-alum
-    bio: "Effective Computational Structural Design and Analysis"
+Matthew_Campbell:
+  display_name: "Matthew Campbell"
+  role: masters-alum
+  thesis: "A-Design: An Agent-Based Conceptual Design Methodology"
 
-Saurabh:
-    display_name: "Saurabh Deshpande"
-    role: masters-alum
-    bio: "Agent-Based Optimal Process Planning"
+Hillary_Carey:
+  display_name: "Hillary Carey"
+  role: masters-alum
+  thesis: "A Corporate Decision Model of the Product Design Process"
 
-Quan:
-    display_name: "Quan Ding"
-    role: masters-alum
-    bio: "Optimal Packing of Automobile Trunks"
+Steven_Chen:
+  display_name: "Steven (Pinzhi) Chen"
+  role: masters-alum
+  thesis: "fMRI Studies and Data Mapping of Form-Function Reasoning"
 
-Ashish:
-    display_name: "Ashish Kolli"
-    role: masters-alum
-    bio: "Layout of Non-linear Shapes"
+Daniel_Clymer:
+  display_name: "Daniel Clymer"
+  role: masters-alum
+  thesis: "Process Specification Design for Additive Manufacturing"
 
-Gyuho:
-    display_name: "Gyuho Kwak"
-    role: masters-alum
-    bio: "A User-Interactive Optimizing Routing Algorithm"
+Drew_Degentesh:
+  display_name: "Drew Degentesh"
+  role: masters-alum
+  thesis: "Effective Computational Structural Design and Analysis"
 
-Rosa:
-    display_name: "Rosa Lopez"
-    role: masters-alum
-    bio: "Quality Estimation Through Neural Networks"
+Saurabh_Deshpande:
+  display_name: "Saurabh Deshpande"
+  role: masters-alum
+  thesis: "Agent-Based Optimal Process Planning"
 
-Luis:
-    display_name: "Luis Oms"
-    role: masters-alum
-    bio: "Investigation of Hip Fractures in the Elderly and Hip Pad Solution"
+Quan_Ding:
+  display_name: "Quan Ding"
+  role: masters-alum
+  thesis: "Optimal Packing of Automobile Trunks"
 
-Shashvat:
-    display_name: "Shashvat Prakash"
-    role: masters-alum
-    bio: "Hierarchical Method for Approximating MEMS Analysis"
+Bradley_Feng:
+  display_name: "Bradley Feng"
+  role: masters-alum
+  thesis: "Region-based Optimization"
 
-Giridhar:
-    display_name: "Giridhar Reddy"
-    role: masters-alum
-    bio: "Topological Generation of Truss Structures"
+Ashish_Kolli:
+  display_name: "Ashish Kolli"
+  role: masters-alum
+  thesis: "Layout of Non-linear Shapes"
 
-Julie:
-    display_name: "Julie Reyer"
-    role: masters-alum
-    bio: "Computer Aided Systems Simulation"
+Gyuho_Kwak:
+  display_name: "Gyuho Kwak"
+  role: masters-alum
+  thesis: "A User-Interactive Optimizing Routing Algorithm"
 
-Jamie:
-    display_name: "Jamie Rugnetta"
-    role: masters-alum
-    bio: "Innovative Design of Walkers for Elders"
+Rosa_Lopez:
+  display_name: "Rosa Lopez"
+  role: masters-alum
+  thesis: "Quality Estimation Through Neural Networks"
 
-Erika:
-    display_name: "Erika Wetzel"
-    role: masters-alum
-    bio: "Understanding Chaos in the Design Process"
+Jay_McCormick:
+  display_name: "Jay McCormick"
+  role: masters-alum
+  thesis: "Shape Grammars for Product Design"
 
-Andrew:
-    display_name: "Andrew Whittam"
-    role: masters-alum
-    bio: "Formal Criteria for Robust Optimality"
+Jesse_Olson:
+  display_name: "Jesse Olson"
+  role: masters-alum
+  thesis: "A Collaborative Approach to Agent-based Design"
+
+Luis_Oms:
+  display_name: "Luis Oms"
+  role: masters-alum
+  thesis: "Investigation of Hip Fractures in the Elderly and Hip Pad Solution"
+
+Seth_Orsborn:
+  display_name: "Seth Orsborn"
+  role: masters-alum
+  thesis: "Using Shape Grammars to Model Product Characteristics"
+
+Shashvat_Prakash:
+  display_name: "Shashvat Prakash"
+  role: masters-alum
+  thesis: "Hierarchical Method for Approximating MEMS Analysis"
+
+Giridhar_Reddy:
+  display_name: "Giridhar Reddy"
+  role: masters-alum
+  thesis: "Topological Generation of Truss Structures"
+
+Julie_Reyer:
+  display_name: "Julie Reyer"
+  role: masters-alum
+  thesis: "Computer Aided Systems Simulation"
+
+Jamie_Rugnetta:
+  display_name: "Jamie Rugnetta"
+  role: masters-alum
+  thesis: "Innovative Design of Walkers for Elders"
+
+Mangalam_Sahai:
+  display_name: "Mangalam Sahai"
+  role: masters-alum
+  thesis: "Diagnostics via Deep Learning"
+
+Noah_Tovares:
+  display_name: "Noah Tovares"
+  role: masters-alum
+  thesis: "Virtual Preference Function-based Design"
+
+Erika_Wetzel:
+  display_name: "Erika Wetzel"
+  role: masters-alum
+  thesis: "Understanding Chaos in the Design Process"
+
+Andrew_Whittam:
+  display_name: "Andrew Whittam"
+  role: masters-alum
+  thesis: "Formal Criteria for Robust Optimality"
+
+Ryan_Yeh:
+  display_name: "Ryan Yeh"
+  role: masters-alum
+  thesis: "Inducing Grammar Rules with Deep Learning"
+
+# Ashwini:
+#     display_name: "Ashwini Asokan"
+#     role: masters-alum
+#     thesis: "Design Languages for Cultural Context"
+
+# Hillary:
+#     display_name: "Hillary Carey"
+#     role: masters-alum
+#     thesis: "A Corporate Decision Model of the Product Design Process"
+
+# Steven:
+#     display_name: "Steven (Pinzhi) Chen"
+#     role: masters-alum
+#     thesis: "fMRI Studies and Data Mapping of Form-Function Reasoning"
+
+# Drew:
+#     display_name: "Drew Degentesh"
+#     role: masters-alum
+#     thesis: "Effective Computational Structural Design and Analysis"
+
+# Saurabh:
+#     display_name: "Saurabh Deshpande"
+#     role: masters-alum
+#     thesis: "Agent-Based Optimal Process Planning"
+
+# Quan:
+#     display_name: "Quan Ding"
+#     role: masters-alum
+#     thesis: "Optimal Packing of Automobile Trunks"
+
+# Ashish:
+#     display_name: "Ashish Kolli"
+#     role: masters-alum
+#     thesis: "Layout of Non-linear Shapes"
+
+# Gyuho:
+#     display_name: "Gyuho Kwak"
+#     role: masters-alum
+#     thesis: "A User-Interactive Optimizing Routing Algorithm"
+
+# Rosa:
+#     display_name: "Rosa Lopez"
+#     role: masters-alum
+#     thesis: "Quality Estimation Through Neural Networks"
+
+# Luis:
+#     display_name: "Luis Oms"
+#     role: masters-alum
+#     thesis: "Investigation of Hip Fractures in the Elderly and Hip Pad Solution"
+
+# Shashvat:
+#     display_name: "Shashvat Prakash"
+#     role: masters-alum
+#     thesis: "Hierarchical Method for Approximating MEMS Analysis"
+
+# Giridhar:
+#     display_name: "Giridhar Reddy"
+#     role: masters-alum
+#     thesis: "Topological Generation of Truss Structures"
+
+# Julie:
+#     display_name: "Julie Reyer"
+#     role: masters-alum
+#     thesis: "Computer Aided Systems Simulation"
+
+# Jamie:
+#     display_name: "Jamie Rugnetta"
+#     role: masters-alum
+#     thesis: "Innovative Design of Walkers for Elders"
+
+# Erika:
+#     display_name: "Erika Wetzel"
+#     role: masters-alum
+#     thesis: "Understanding Chaos in the Design Process"
+
+# Andrew:
+#     display_name: "Andrew Whittam"
+#     role: masters-alum
+#     thesis: "Formal Criteria for Robust Optimality"
 
 
 ## Prior Postdocs
-Josh:
+Josh_post:
     display_name: "Josh Gryory"
     role: postdoc-alum
     webpage: https://www.linkedin.com/in/joshua-gyory/
     image: /img/people/gyory1.jpeg
-    bio: "Ph.D., 2022. Now at Boston Consulting Group"
+    year: "(9/21-7/22)"
+    thesis: "Computationally Facilitating the Problem-Solving Design Process Via Real-Time Process Management"
+    now: "Consultant, Boston Consulting Group"
 
-Zack:
+
+Zack_post:
     display_name: "Zack Ball"
     role: postdoc-alum
     webpage: https://www.linkedin.com/in/zachary-ball-phd-pe-4a159184/
-    bio: "Ph.D., 2020. Now Senior Engineer at ARCCA"
+    year: "(3/20-3/21)"
+    thesis: "Changing Teams in Industry"
+    now: "Now Senior Engineer at ARCCA"
 
 Kosa_Goucher_Lambert:
     display_name: "Kosa Goucher-Lambert"
     role: postdoc-alum
-    bio: "Team-based Problem Solving (co-advised with K. Kotovsky) (7/17-12/18) – now Assistant Professor at UC Berkeley"
+    # bio: "Team-based Problem Solving – now Assistant Professor at UC Berkeley"
+    year: "(7/17-12/18) (co-advised with K. Kotovsky)"
+    thesis: "Team-based Problem Solving"
+    now: "Assistant Professor at UC Berkeley"
 
 Emrah:
     display_name: "A. Emrah Bayrak"
     role: postdoc-alum
     webpage: https://www.linkedin.com/in/zachary-ball-phd-pe-4a159184/
     bio: "Ph.D., 2015. Now Assistant Professor at Stevens Institute of Technology"
+    year: "(1/18-12/18)"
+    thesis: "Game Theory and Control Modeling of Problem Solving Processes"
+    now: "Assistant Professor at Stevens Institute"
 
 Ut:
     display_name: "Ut Na Sio"
     role: postdoc-alum
     webpage: https://www.sheffield.ac.uk/management/people/academic-staff/ut-na-sio
     bio: "Ph.D. Now Assistant Professor at Stevens Institute of Technology"
+    year: "(9/12-8/17) (co-advised with K. Kotovsky)"
+    thesis: "Team-based Problem Solving"
+    now: "Assistant Professor at The Education University of Hong Kong"
 
 Chris_McComb:
     display_name: "Chris McComb"
     role: postdoc-alum
     bio: "Computational Team Design (co-advised with K. Kotovsky) (8/16-8/17) – Now Assistant Professor at Carnegie Mellon University"
+    year: "(8/16-8/17) (co-advised with K. Kotovsky) "
+    thesis: "Computational Team Design"
+    now: "Assistant Professor at Carnegie Mellon University"
 
 Shraddha_Joshi:
     display_name: "Shraddha Joshi"
     role: postdoc-alum
     bio: "Design of Connected Products (9/14 – 8/16) – now Assistant Professor at James Madison University"
+    year: "(9/14 – 8/16)"
+    thesis: "Design of Connected Products"
+    now: "Assistant Professor at James Madison University"
 
 Jarrod_Moss:
     display_name: "Jarrod Moss"
     role: postdoc-alum
     bio: "Research on Open Goals in Creative Problem Solving (co-advised with K. Kotovsky) (6/06-5/07) - now Associate Professor at Mississippi State University"
+    year: "(6/06-5/07) (co-advised with K. Kotovsky)"
+    thesis:  "Research on Open Goals in Creative Problem Solving"
+    now: "Associate Professor at Mississippi State University"
 
 Jay_McCormick:
     display_name: "Jay McCormick"
     role: postdoc-alum
     bio: "Shape Grammar Interpreters for Product Design (6/03-5/04) - now Associate Professor at Rose-Hulman"
+    year: "(6/03-5/04)"
+    thesis: "Shape Grammar Interpreters for Product Design"
+    now: "Associate Professor at Rose-Hulman"
 
 Kenneth_Brown:
     display_name: "Kenneth Brown"
     role: postdoc-alum
     bio: "A Shape Annealing Approach to Process Planning (94-95) - now Lecturer at University of Aberdeen"
+    year: "(94-95)"
+    thesis: "A Shape Annealing Approach to Process Planning"
+    now: "Lecturer at University of Aberdeen"
 
 # alum-d:
 #     display_name: "Alum D"
