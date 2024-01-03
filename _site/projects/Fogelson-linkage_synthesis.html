@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Integrated Design Innovation Group: Generating High-Order Linkage Graphs for Path Synthesis</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/idig.github.io/css/group.css">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between">
+                <a href="/idig.github.io/" class="">
+                    <img src="/idig.github.io/img/logo_red_white.png"
+                         srcset="/idig.github.io/img/logo_red_white.png 2x"
+                         alt="IDIG" id="logo">
+                </a>
+                <ul class="nav nav-pills justify-content-center">
+
+                    
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/idig.github.io/">
+                                Home
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/idig.github.io/people.html">
+                                People
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link active"
+                               href="/idig.github.io/research.html">
+                                Research
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/idig.github.io/publications.html">
+                                Publications
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/idig.github.io/books.html">
+                                Books
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/idig.github.io/code.html">
+                                Code
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="/idig.github.io/schedule.html">
+                                Calendar
+                            </a>
+                        </li>
+
+                    
+
+                </ul>
+            </div>
+
+            
+                <img src="/idig.github.io/img/block_diagram_revised.png"
+                     alt="Generating High-Order Linkage Graphs for Path Synthesis"
+                     style="max-width: 400px"
+                     class="img-fluid mx-auto d-block mb-4"/>
+            
+
+            
+                <h1>Generating High-Order Linkage Graphs for Path Synthesis</h1>
+            
+
+            <p>One degrees-of-freedom (1DOF) linkages are persistent in mechanical systems. However, designing linkages to follow a desired path, known as path synthesis, is challenging due to non-linearities, combinatorial nature, and strict geometric constraints. Current state-of-the-art algorithms cannot scale well to linkages with higher-order linkage graphs, which are required to satisfy more complicated paths for new mechanical systems, such as hopping and flying robots. One reason for this is that state-of-the-art algorithms spend the majority of the time exploring constraint-violating designs. This work uses an Assur group 0DOF linkage as a graph grammar rule to modify both linkage graph and spatial parameters, ensuring all designs are valid 1DOF linkages. Using this graph grammar, this paper formulates linkage path synthesis as a tree search and uses a deep reinforcement learning (DRL) agent to search the space of kinematically feasible planar 1DOF linkages. This paper introduces a method using a graph convolution policy for high-order linkage graph optimization (GCP-HOLO). An anytime algorithm, GCP-HOLO outputs linkages with 1–8 loops (4–16 bars) efficiently. When comparing the GCP-HOLO formulation to a recent state-of-the-art paper that solves a mixed integer conic program, GCP-HOLO generates sets of solutions of varying linkage complexities to eight test trajectories in a quarter of the time. Extending GCP-HOLO with a global node optimization, such as covariance matrix adaptation evolutionary strategy, the results quickly converge to finding better solutions for 4/8 tests, with the whole pipeline capable of a 13X speed increase.</p>
+
+<p><a href="https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/7/073303/1160180/GCP-HOLO-Generating-High-Order-Linkage-Graphs-for">Paper</a></p>
+
+<p><a href="https://github.com/mfogelson/gcp_holo">Code</a></p>
+
+
+<h2> People </h2>
+<section class="people project-people">
+    
+        
+        
+
+
+
+
+
+
+
+    <div class="person person-with-image row align-items-center">
+        <div class="col-auto">
+            
+
+
+
+
+
+
+
+    <a href="https://www.mitchellfogelson.com/"
+       style="text-decoration: none">
+        
+        <img class="rounded-circle profile"
+             alt="Mitchell Fogelson"
+             title="Mitchell Fogelson"
+             src="/idig.github.io/img/people/fogelson.png" />
+    
+    </a>
+
+
+        </div>
+        <div class="col pl-0">
+            <h6 class="person-name"> 
+        <a href="https://www.mitchellfogelson.com/"> Mitchell Fogelson </a>
+     </h6>
+            
+                <div class="bio">Physics Informed Design Automation</div>
+            
+        </div>
+    </div>
+
+
+    
+</section>
+
+
+            <div class="footer">
+                <p>
+                    <a href="https://www.meche.engineering.cmu.edu">Mechanical Engineering Department</a>
+                    at the
+                    <a href="https://www.cmu.edu">Carnegie Mellon University</a>
+                </p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="/idig.github.io/js/srcset-polyfill.js"></script>
+    </body>
+</html>
