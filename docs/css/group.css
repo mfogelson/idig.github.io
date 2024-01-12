@@ -105,8 +105,8 @@ ul.news > li {
   margin-top: 1em;
 }
 
-.copy-citation-button {
-  display: block;
+.copy-citation-button, .download-pdf-button {
+  display: inline-block; /* or 'inline' or 'flex' */
 }
 
 ol {
