@@ -5,7 +5,7 @@ title:
 
 Journal Articles
 ------------------------
-{% bibliography --file pubs %}
+{% bibliography --file IDIG_citations %}
 
 
 

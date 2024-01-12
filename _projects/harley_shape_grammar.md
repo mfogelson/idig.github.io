@@ -3,7 +3,7 @@ title: Harley Shape Grammar
 description: 
 
 people:
-  - JonCagan
+  - 
 
 layout: project
 # image: <image>.jpg

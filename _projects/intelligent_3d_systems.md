@@ -3,7 +3,7 @@ title: Intelligent 3d Systems
 description: 
 
 people:
-  - JonCagan
+  - 
 
 layout: project
 # image: <image>.jpg

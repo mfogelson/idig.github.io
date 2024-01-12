@@ -17,6 +17,7 @@ scholar:
   order: descending
   group_by: year
   group_order: descending
+  repository: _bibliography/pdfs
 
 # Sections on the "people" page.
 roles:

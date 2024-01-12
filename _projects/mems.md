@@ -3,7 +3,7 @@ title: MEMS AUTOMATED SYNTHESIS OF MICRO-ELECTROMECHANICAL RESONATING SYSTEMS
 description: 
 
 people:
-  - JonCagan
+  - 
 
 layout: project
 image: img/projects/fp_eb_resonator.gif

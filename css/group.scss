@@ -128,10 +128,16 @@ ul.news {
         margin-top: 1em;
     }
 }
-.copy-citation-button {
-    display: block;
-  }
-  
+.copy-citation-button, .download-pdf-button {
+    display: inline-block; /* or 'inline' or 'flex' */
+}
+
+// .copy-citation-button {
+//     display: flex;
+//   }
+// .download-pdf-button {
+//     display: flex;
+//   }  
 
 ol {
     list-style-type: disc; /* Removes the default numbering */

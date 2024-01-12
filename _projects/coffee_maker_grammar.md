@@ -4,7 +4,7 @@ title: COFFEE MAKER DESIGN AND SHAPE GRAMMAR
 description:
 
 people:
-  - JonCagan
+  - 
 
 layout: project
 image: img/projects/coffeemaker.gif

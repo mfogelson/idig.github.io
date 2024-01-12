@@ -3,7 +3,7 @@ title: A-DESIGN - AGENT BASED ADAPTIVE CONCEPTUAL DESIGN
 description: 
 
 people:
-  - JonCagan
+  - 
 
 layout: project
 # image: <image>.jpg
