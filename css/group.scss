@@ -1,248 +1,199 @@
----
----
-
-$gray: #999;
-$red: #C41230;
-$light-gray: #EEE;
-
 /* Space out content a bit */
 body {
     padding-top: 20px;
     background-color: white;
-}
-
-.header {
-    border-bottom: 1px solid $light-gray;
+  }
+  
+  .header {
+    border-bottom: 1px solid #EEE;
     padding-bottom: 10px;
     margin-bottom: 20px;
     text-align: center;
-}
-
-.footer {
+  }
+  
+  .footer {
     /* padding-top: 19px; */
-    color: $gray;
-    border-top: 1px solid $light-gray;
+    color: #999;
+    border-top: 1px solid #EEE;
     text-align: center;
     font-size: 0.8em;
-
-    a:link, a:visited {
-        color: $red;
-    }
-}
-
-.fa {
-    color: $red;
-}
-a > .fa {
-    // make sure that font-awesome icons are underlined in links
+  }
+  .footer a:link, .footer a:visited {
+    color: #C41230;
+  }
+  
+  .fa {
+    color: #C41230;
+  }
+  
+  a > .fa {
     display: inline;
-    // color: #C41230;
-}
-
-/* /\* Customize container *\/ */
-/* @media (min-width: 768px) { */
-/*     .container { */
-/*         max-width: 730px; */
-/*     } */
-/* } */
-
-/* Jumbotron */
-.jumbotron {
+  }
+  
+  /* /\* Customize container *\/ */
+  /* @media (min-width: 768px) { */
+  /*     .container { */
+  /*         max-width: 730px; */
+  /*     } */
+  /* } */
+  /* Jumbotron */
+  .jumbotron {
     text-align: justify;
     padding-top: 1.5em;
     padding-bottom: 0.5em;
     font-size: 175%;
-    // background: #C41230    ;
-    background: #ffffff00 url("../img/cmu-tartan-wave-red-crop-02.png") center center;
-    // opacity: 0.5;
-    // background-image: url("../img/tartan-digital-600x600.png");
+    background:rgba(255, 255, 255, 0) url("cmu-tartan-wave-red-crop-02.png") center center;
     background-size: cover;
-    background-blend-mode:soft-light;
+    background-blend-mode: soft-light;
     overflow: hidden;
-    // background-color: $gray;
-    // color: $;
     color: white;
-}
-
-.auto-resizable-iframe {
+    background-color: rgba(116,12,28,1.0);
+  }
+  
+  .auto-resizable-iframe {
     max-width: 600px;
     margin: 0px auto;
-}
+  }
   
-.auto-resizable-iframe > div {
-position: relative;
-padding-bottom: 75%;
-height: 0px;
-}
+  .auto-resizable-iframe > div {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0px;
+  }
   
-.auto-resizable-iframe iframe {
-position: absolute;
-top: 0px;
-left: 0px;
-width: 100%;
-height: 100%;
-}
-
-/* Group logo */
-#logo {
+  .auto-resizable-iframe iframe {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* Group logo */
+  #logo {
     width: 130px;
-}
-
-.nav-item {
+  }
+  
+  .nav-item {
     font-size: 16pt;
     font-family: inherit;
-    // font-weight: bold;
-}
-
-a {
-
-    color: $red;
-
-}
-
-a:hover{
-    color: $red;
+  }
+  
+  a {
+    color: #C41230;
+  }
+  
+  a:hover {
+    color: #C41230;
     text-decoration: none;
-}
-
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  }
+  
+  .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: $red;
-}
-
-ul.nav {
+    background-color: #C41230;
+  }
+  
+  ul.nav {
     margin-top: 75px;
-    // background-color: $red;
-    // color: $red;
-}
-
-/* Front page news. */
-ul.news {
-
-    .date {
-        color: $gray;
-        font-weight: bold;
-    }
-
-    > li {
-        margin-top: 1em;
-    }
-}
-.copy-citation-button, .download-pdf-button {
+  }
+  
+  /* Front page news. */
+  ul.news .date {
+    color: #999;
+    font-weight: bold;
+  }
+  ul.news > li {
+    margin-top: 1em;
+  }
+  
+  .copy-citation-button, .download-pdf-button {
     display: inline-block; /* or 'inline' or 'flex' */
-}
-
-// .copy-citation-button {
-//     display: flex;
-//   }
-// .download-pdf-button {
-//     display: flex;
-//   }  
-
-ol {
+  }
+  
+  ol {
     list-style-type: disc; /* Removes the default numbering */
     padding-left: 0; /* Removes the default padding if not needed */
-}
-
-ol li {
+  }
+  
+  ol li {
     margin-bottom: 1em; /* Adds space below each list item */
-}
-
-h2.bibliography {
+  }
+  
+  h2.bibliography {
     font-size: 1.5em;
-}
-
-
-// .card-columns {
-//     display: grid;
-//     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* or however wide you want the cards */
-//     grid-auto-rows: auto; /* or however tall you want the cards */
-//     gap: 16px;  /* Add gaps between grid items */
-//   }
-
-// .card-columns {
-//     display: flex;
-//     flex-wrap: wrap;
-// }
-
-// .card-columns > * {
-//     flex: 1;
-//     margin: 8px;
-//     min-width: calc(100% - 16px); /* 1 item per row by default */
-// }
-
-
-@media (min-width: 576px) {
-    .project-people { column-count: 2 }
-    .card-columns   { column-count: 2 }
-}
-
-@media (min-width: 768px) {
-    .role.grad      { column-count: 2 }
-    .project-people { column-count: 3 }
-    .card-columns   { column-count: 3 }
-}
-
-.title img {
+  }
+  
+  @media (min-width: 576px) {
+    .project-people {
+      column-count: 2;
+    }
+    .card-columns {
+      column-count: 2;
+    }
+  }
+  @media (min-width: 768px) {
+    .role.grad {
+      column-count: 2;
+    }
+    .project-people {
+      column-count: 3;
+    }
+    .card-columns {
+      column-count: 3;
+    }
+  }
+  .title img {
     max-width: 50%;
-}
-
-section {
+  }
+  
+  section {
     margin-bottom: 2em;
-}
-
-.profile {
-    object-fit: cover; // makes sure it's cropped
-}
-
-.noprofile {
-    circle {
-        fill: $light-gray;
-    }
-    text {
-        font-weight: 700;
-        fill: white;
-    }
-}
-
-.card {
-
-    .profile {
-        height: 40px;
-        width: 40px;
-        margin: 3px;
-    }
-
-    .card-footer { padding: 0.5em }
-}
-
-.person {
-
+  }
+  
+  .profile {
+    object-fit: cover;
+  }
+  
+  .noprofile circle {
+    fill: #EEE;
+  }
+  .noprofile text {
+    font-weight: 700;
+    fill: white;
+  }
+  
+  .card .profile {
+    height: 40px;
+    width: 40px;
+    margin: 3px;
+  }
+  .card .card-footer {
+    padding: 0.5em;
+  }
+  
+  .person {
     margin-bottom: 10px;
-
-    .profile {
-        height: 70px;
-        width: 70px;
-    }
-
-    .bio {
-        color: $gray;
-    }
-
-    .person-name {
-        margin: 0;
-    }
-}
-
-.person-without-image {
+  }
+  .person .profile {
+    height: 70px;
+    width: 70px;
+  }
+  .person .bio {
+    color: #999;
+  }
+  .person .person-name {
     margin: 0;
-
-    .bio {
-        margin-left: 1em;
-    }
-}
-
-svg {
-    // make the alignment just like img from bootstrap's reboot.scss
+  }
+  
+  .person-without-image {
+    margin: 0;
+  }
+  .person-without-image .bio {
+    margin-left: 1em;
+  }
+  
+  svg {
     vertical-align: middle;
-}
+  }
+  
+  /*# sourceMappingURL=group.css.map */
